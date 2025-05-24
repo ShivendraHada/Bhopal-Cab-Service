@@ -1,11 +1,6 @@
 import React from "react";
-
-// import { navLinks } from "@/data/content";
 import ButtonPrimary from "@/shared/Button/ButtonPrimary";
 import Logo from "@/shared/Logo/Logo";
-
-// import NavigationItem from "../NavItem";
-import MenuBar from "./MenuBar";
 
 const MainNav = () => {
   return (

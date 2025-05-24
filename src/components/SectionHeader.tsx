@@ -1,8 +1,7 @@
 import Image from "next/image";
 import React from "react";
-import { downloadStats, headingData, profilesPhotos } from "@/data/content";
+import { downloadStats, headingData } from "@/data/content";
 import taxi from "@/images/taxi.svg";
-import ButtonCircle3 from "@/shared/Button/ButtonCirclel3";
 
 const SectionHeader = () => {
   return (

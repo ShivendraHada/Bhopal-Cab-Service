@@ -3,13 +3,8 @@ import React from "react";
 import AboutUs from "@/components/AboutUs";
 import LocationSlider from "@/components/LocationSlider";
 import SectionBenefits from "@/components/SectionBenefits";
-import SectionBlogs from "@/components/SectionBlogs";
-import SectionDemo from "@/components/SectionDemo";
 import SectionDownloadApp from "@/components/SectionDownloadApp";
-import SectionDrivers from "@/components/SectionDrivers";
-import SectionFeatures from "@/components/SectionFeatures";
 import SectionHeader from "@/components/SectionHeader";
-import SectionPricing from "@/components/SectionPricing";
 import SectionReviews from "@/components/SectionReviews";
 
 const page = () => {

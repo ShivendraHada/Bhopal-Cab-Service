@@ -2,8 +2,6 @@ import React from "react";
 
 import { downloadSectionData } from "@/data/content";
 
-import DownloadCard from "./DownloadCard";
-
 const SectionDownloadApp = () => {
   return (
     <div className="container items-center justify-between space-y-5">

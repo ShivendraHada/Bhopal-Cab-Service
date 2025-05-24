@@ -1,8 +1,6 @@
 import React from "react";
 import { MdCopyright } from "react-icons/md";
-
 import FooterBanner from "@/components/FooterBanner";
-import SectionSubscribe2 from "@/components/SectionSubscribe2";
 
 const Footer: React.FC = () => {
   return (

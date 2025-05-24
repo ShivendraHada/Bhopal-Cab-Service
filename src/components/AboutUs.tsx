@@ -4,7 +4,6 @@ import { BsFillCheckCircleFill } from "react-icons/bs";
 
 import { aboutUsData } from "@/data/content";
 import aboutUsImage from "@/images/taxi-map.svg";
-import ButtonPrimary from "@/shared/Button/ButtonPrimary";
 import Heading from "@/shared/Heading/Heading";
 
 const AboutUs = () => {
